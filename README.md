@@ -1,2 +1,2 @@
-# Comp_3125_Individual_Project
+# Comp 3125 Individual Project
 Individual Project for Data Science Course
