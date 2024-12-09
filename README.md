@@ -18,7 +18,7 @@ The study leverages datasets from the UCI Machine Learning Repository and public
 ---
 
 ## Dataset Sources
-1. **Traffic Volume Dataset**: UCI Machine Learning Repository ([link](https://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume)).
+1. **Traffic Volume Dataset**: UCI Machine Learning Repository 
 2. **Public Transit Ridership Dataset**: Aggregated monthly ridership data from U.S. transit agencies.
 
 ---
@@ -42,7 +42,7 @@ The study leverages datasets from the UCI Machine Learning Repository and public
    ```bash
    git clone <repository_url>
    ```
-2. Navigate to the project directory and run the Jupyter Notebook or `.py` scripts to reproduce the analysis.
+2. Navigate to the project directory and run the Jupyter Notebook scripts to reproduce the analysis.
 
 ---
 
