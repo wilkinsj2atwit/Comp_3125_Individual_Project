@@ -37,15 +37,6 @@ The study leverages datasets from the UCI Machine Learning Repository and public
 
 ---
 
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone <repository_url>
-   ```
-2. Navigate to the project directory and run the Jupyter Notebook scripts to reproduce the analysis.
-
----
-
 ## Acknowledgments
 - UCI Machine Learning Repository for traffic data.
 - Public datasets from U.S. transit agencies for ridership trends.
